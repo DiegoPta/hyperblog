@@ -1,7 +1,7 @@
 body {
     color: red;
     text-align: center;
-    font-family: Courier;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 #cabecera {
@@ -29,4 +29,10 @@ body {
 
 #container h1 {
     font-size: 20px;
+}
+
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
 }
